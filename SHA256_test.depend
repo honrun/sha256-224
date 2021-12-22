@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637984451 source:e:\debug project\c\sha256_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"sha256.h"
+
+1637119231 e:\debug project\c\sha256_test\sha256.h
+	<stddef.h>
+	<stdint.h>
+	"sha256_alt.h"
+
+1637130024 source:e:\debug project\c\sha256_test\sha256.c
+	<string.h>
+	<stdint.h>
+	"sha256.h"
+
